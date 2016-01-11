@@ -1,0 +1,18 @@
+{
+    "name": "kaankilic/eden",
+    "description": "API Authentication Functionalities",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kaan Kılıç",
+            "email": "bl4cksta@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Kaankilic\\Eden\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
