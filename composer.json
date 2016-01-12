@@ -1,6 +1,7 @@
 {
     "name": "kaankilic/eden",
     "description": "API Authentication Functionalities",
+    "version": "3.1.7",
     "license": "MIT",
     "authors": [
         {
