@@ -10,11 +10,12 @@
         }
     ],
     "require": {
+        "php": ">=5.4.0",
     },
     "autoload": {
         "psr-4": {
             "Kaankilic\\Eden\\": "src/"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
