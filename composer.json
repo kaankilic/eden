@@ -17,5 +17,5 @@
             "Kaankilic\\Eden\\": "src/"
         }
     },
-    "minimum-stability": "alpha"
+    "minimum-stability": "stable"
 }
